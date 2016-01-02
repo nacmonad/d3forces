@@ -1,0 +1,46 @@
+.control-bar {
+	padding-top:150px;
+}
+
+.svgs {
+	
+}
+.svgs :hover {
+
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+.nodegroup {
+	fill-opacity:0.75;
+	overflow:;
+}
+
+.nodegroup :hover {
+  fill-opacity:0.95;
+}
+.node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.innerText {
+	font-size:12px;
+}
+
+.foreign{
+	opacity:0;
+}
+
+.foreign body {
+	height:106px;
+	background-color:rgba(255,255,255,0);
+	border-color:white;
+	border-style: solid;
+	border-width:2px;
+	border-radius:10px;
+	padding:10px;
+}
